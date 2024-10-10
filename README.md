@@ -15,4 +15,6 @@ aqui se realiza las practicas en Django que es su frameword(marco de trabajo)
 13. realizar migracio --> python manage.py migrate
 14. vuelve a ejecutar servidor
  
+## Tablas 
+- ![image](https://github.com/user-attachments/assets/04a3ed56-9c4f-4cbd-aa2a-2c46aeb4c951)
 
